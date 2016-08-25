@@ -6,3 +6,4 @@ Version: 2.0.1
 Detail: 다양한 회사 홈페이지에 적용 시킬 수 있는 테마 입니다.
 License: GNU LESSER GENERAL PUBLIC LICENSE Version 2.1
 License URI: http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+Github: https://github.com/seohyun6689/theme-B001.git
